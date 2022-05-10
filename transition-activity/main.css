@@ -23,8 +23,4 @@ button {
   background-color: ghostwhite;
 }
 
-button:hover {
-  background-color: cornflowerblue;
-  color: ghostwhite;
-  transition: 2s;
-}
+
